@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang=”en”>
-<head>
-<meta charset=”utf-8”>
-<title> Git Test Page </title>
-</head>
-<body>
 Xiaohan Wang
+I don't like baseball.
 100
-</body>
-</html>
